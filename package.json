@@ -1,0 +1,11 @@
+{
+  "name": "promised-fiber",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": "3.4.0",
+    "syncho": "0.2.5"
+  },
+  "devDependencies": {
+    "mocha": "2.5.3"
+  }
+}
